@@ -1,0 +1,21 @@
+{
+  "name": "email",
+  "version": "0.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cool"
+  ],
+  "author": "Andreas & Timo",
+  "license": "Free",
+  "dependencies": {
+    "express": "~4.9.x",
+    "q": "~1.2.0"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
